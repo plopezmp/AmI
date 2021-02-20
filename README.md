@@ -1,3 +1,3 @@
 # AmI
-Curso de Redes de Inteligencia Ambiental y Computación Ubicua
+Notebooks de apoyo de Redes de Inteligencia Ambiental y Computación Ubicua
 
